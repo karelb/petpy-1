@@ -1,6 +1,6 @@
 # petpy
 
-Petrophysical utilities
+Petrophysical utilities.
 
 ## Installing
 
